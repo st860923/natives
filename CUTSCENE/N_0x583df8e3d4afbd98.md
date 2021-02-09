@@ -8,5 +8,9 @@ ns: CUTSCENE
 int _0x583DF8E3D4AFBD98();
 ```
 
+```
+This function will return Current Cutscene number of scene.
+```
+
 
 ## Return value
